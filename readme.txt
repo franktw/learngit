@@ -1,3 +1,3 @@
 Git is a distributed version control system
 Git is free software distributed under the GPL
-franktw is a forever goodkeeper
+ranktw is a forever goodkeeper
